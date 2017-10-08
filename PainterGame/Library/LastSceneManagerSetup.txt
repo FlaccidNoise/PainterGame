@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Contents/Scenes/JoshGym.unity
+  isLoaded: 1
+  isActive: 1
